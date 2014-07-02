@@ -34,6 +34,15 @@ class Master(nrOfWorkers: Int, nrofMessages: Int, nrOfElements: Int, listener: a
   }
 }
 
+class listener extends Actor {
+  def receive = {
+    case PiApproximation => 
+      println("\n\tPi approximation: \t\t%s\n\tCalculation time: \t%s"
+        .format(pi, duration))
+      context.system.shutdown()
+  }
+}
+
 class Worker extends Actor {
  
   def calculatePiFor(start: Int, nrOfElements: Int): Double ={
