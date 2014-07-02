@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0mRunning main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/syth/scalaInAction/chap3Mongo/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/syth/scalaInAction/chap3Mongo/lib/mongo-java-driver-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.mongodb/casbah-commons_2.10/jars/casbah-commons_2.10-2.7.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/com.github.nscala-time/nscala-time_2.10/jars/nscala-time_2.10-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.mongodb/casbah-core_2.10/jars/casbah-core_2.10-2.7.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.mongodb/casbah-query_2.10/jars/casbah-query_2.10-2.7.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/syth/.ivy2/cache/org.mongodb/casbah-gridfs_2.10/jars/casbah-gridfs_2.10-2.7.2.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread MongoCleaner1811660077[0m
+[0m[[0mdebug[0m] [0m	Interrupted MongoCleaner1811660077[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
